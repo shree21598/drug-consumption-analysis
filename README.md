@@ -11,7 +11,7 @@ You can download the dataset from the following link: (https://drive.google.com/
 
 The purpose of this dataset is to understand people's drug usage behaviors and patterns. By analyzing this data, we can gain insights into the prevalence and frequency of drug consumption among the participants.
 
-The dataset includes self-reported drug usage information provided by the respondents. It captures qualitative data, as each drug is ranked on a scale from "never used" to "used in the last day". Additionally, demographic information of the participants, such as age, gender, and educational attainment, may also be included in the dataset, providing quantitative data for further analysis.
+The dataset includes self-reported drug usage information provided by the respondents.Additionally, demographic information of the participants, such as age, gender, and educational attainment, may also be included in the dataset, providing quantitative data for further analysis.
 Missing Data Handling
 
 Before conducting any analysis, it is important to handle missing data appropriately. Missing data may exist in the dataset, and appropriate procedures, such as imputation or deletion of incomplete records, should be applied to ensure the integrity of the analysis.
