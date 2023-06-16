@@ -6,8 +6,8 @@ The dataset used for this project contains information about the drug consumptio
 
 You can download the dataset from the following link: (https://drive.google.com/file/d/1A9F3tNN__F7I7hr1-uwP5LJTFyZQAJiP/view)
 
-A short description of the ratings of drug usage is available in a separate document, which can be found here: [link to the description document]
-Data Exploration
+
+# Data Exploration
 
 The purpose of this dataset is to understand people's drug usage behaviors and patterns. By analyzing this data, we can gain insights into the prevalence and frequency of drug consumption among the participants.
 
@@ -15,6 +15,7 @@ The dataset includes self-reported drug usage information provided by the respon
 Missing Data Handling
 
 Before conducting any analysis, it is important to handle missing data appropriately. Missing data may exist in the dataset, and appropriate procedures, such as imputation or deletion of incomplete records, should be applied to ensure the integrity of the analysis.
+
 # Usage
 
 To use this dataset for analysis or modeling, follow these steps:
